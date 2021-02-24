@@ -1,0 +1,11 @@
+.hero--navigation {
+  position: relative;
+}
+.hero--navigation .hero-overlay {
+  width: 100%;
+  height: 100%;
+  background: #36363670;
+}
+.hero--navigation .hero-head {
+  z-index: 100;
+}
